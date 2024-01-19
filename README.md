@@ -1,5 +1,7 @@
 # Melt-UI Runes Experiment
 
+This repository has been moved to [melt-ui/runes-experiment](https://github.com/melt-ui/runes-experiment)
+
 ## Introduction
 This is an experiment that aims to migrate existing Melt-UI builders to runes.
 
